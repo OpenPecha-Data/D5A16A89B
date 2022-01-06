@@ -1,0 +1,20 @@
+id: 07d9e1c5c0fe4edeb3419b15384d4f6c
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  261969d732d94ffd8ba4ea3550d03d2f:
+    imgnum: 480
+    reference: ''
+    span:
+      start: 0
+      end: 873
+    note_ref: 24f8b833050649b0821ff15ae6e75544
+  24f8b833050649b0821ff15ae6e75544:
+    imgnum: 481
+    reference: ''
+    span:
+      start: 876
+      end: 1316
+local_ids:
+  261969d732d94ffd8ba4ea3550d03d2f: 200000
+  24f8b833050649b0821ff15ae6e75544: 200001
